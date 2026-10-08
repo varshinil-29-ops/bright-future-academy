@@ -1,0 +1,4 @@
+git add .
+    git status
+    git commit -m "Initial image classifier project"
+    git push -u origin main
